@@ -15,8 +15,8 @@
 - [x] Streamlit 보너스: 전체 기간·31일 선택 실행, 로컬 서버 응답 확인
 - [x] 공식 데이터 출처/파일명/이용조건 안내 및 원본 SHA-256 기록
 - [x] 원본·가공 CSV와 `.venv`가 Git에서 제외됨을 `git check-ignore`로 확인
-- [x] `M1-1` 산출물만 로컬 Git 커밋 (`e365945`)
-- [ ] GitHub 공개 저장소 `hongbinwee/codyssey-m1`에 Push하고 표시 확인: 연결 계정의 Push 권한이 없어 대기
+- [x] `M1-1` 산출물만 Git 추적, 원본·가공 CSV 제외
+- [x] GitHub 공개 저장소 `hongbinwee/codyssey-m1`의 `main`에 게시하고 파일 목록 확인 (2026-09-27)
 
 위 실행 검증일: 2026-09-26, Python 3.12.
 
