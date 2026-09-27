@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Official / generated data
+data/raw/*.csv
+data/processed/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
