@@ -8,6 +8,10 @@ __pycache__/
 data/raw/*.csv
 data/processed/*.csv
 
+# Local agent instructions and working spec
+AGENTS.md
+SPEC.md
+
 # OS
 .DS_Store
 Thumbs.db

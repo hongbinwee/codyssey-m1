@@ -47,7 +47,6 @@ M1-1/
 ├── run_all.py
 ├── REPORT.md
 ├── README.md
-├── SPEC.md
 ├── SUBMISSION_CHECKLIST.md
 ├── .gitignore
 └── requirements.txt
